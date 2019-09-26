@@ -1,0 +1,1 @@
+# bazel-go-error-MWE
