@@ -2,12 +2,10 @@ package main
 
 import (
 	"fmt"
-	"cloud.google.com/go/pubsub"
+
+	_ "cloud.google.com/go/firestore"
 )
 
 func main() {
-	c := &pubsub.Client{}
-	fmt.Printf("hello %p", c)
+	fmt.Printf("hello")
 }
-
-

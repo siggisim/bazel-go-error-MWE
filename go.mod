@@ -1,5 +1,5 @@
-module testpubsub
+module test
 
 go 1.13
 
-require cloud.google.com/go/pubsub v1.0.1
+require cloud.google.com/go/firestore v1.1.0
