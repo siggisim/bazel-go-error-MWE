@@ -1,5 +1,5 @@
-Build label: 0.28.1
+Build label: 1.2.1
 Build target: bazel-out/k8-opt/bin/src/main/java/com/google/devtools/build/lib/bazel/BazelServer_deploy.jar
-Build time: Fri Jul 19 15:19:51 2019 (1563549591)
-Build timestamp: 1563549591
-Build timestamp as int: 1563549591
+Build time: Tue Nov 26 15:25:10 2019 (1574781910)
+Build timestamp: 1574781910
+Build timestamp as int: 1574781910
